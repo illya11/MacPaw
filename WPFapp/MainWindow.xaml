@@ -1,0 +1,200 @@
+﻿<Window x:Class="WPFapp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPFapp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="730" Width="760" ResizeMode="NoResize" Icon="Images/M.PNG">
+    <Grid>
+        <Canvas Height="700" Width="750">
+            <Image Source="Images/metro.jpg" Height="700"/>
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M110" Canvas.Left="28" Canvas.Top="341" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M111" Canvas.Left="66" Canvas.Top="341" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M112" Canvas.Left="103" Canvas.Top="341" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M113" Canvas.Left="140" Canvas.Top="341" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M114" Canvas.Left="195" Canvas.Top="341" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M115" Canvas.Left="234" Canvas.Top="341" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M116" Canvas.Left="269" Canvas.Top="341" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M117" Canvas.Left="305" Canvas.Top="341" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M118" Canvas.Left="341" Canvas.Top="341" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M119" Canvas.Left="373" Canvas.Top="310" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M120" Canvas.Left="429" Canvas.Top="298" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M121" Canvas.Left="473" Canvas.Top="298" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M122" Canvas.Left="524" Canvas.Top="298" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M123" Canvas.Left="567" Canvas.Top="285" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M124" Canvas.Left="600" Canvas.Top="259" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M125" Canvas.Left="633" Canvas.Top="233" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M126" Canvas.Left="661" Canvas.Top="211" Opacity="0" />
+            <Ellipse Fill="#E60003" Width="20" Height="20" x:Name="M127" Canvas.Left="688" Canvas.Top="190" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M210" Canvas.Left="428" Canvas.Top="63" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M211" Canvas.Left="428" Canvas.Top="94" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M212" Canvas.Left="428" Canvas.Top="125" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M213" Canvas.Left="428" Canvas.Top="156" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M214" Canvas.Left="429" Canvas.Top="187" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M215" Canvas.Left="429" Canvas.Top="218" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M216" Canvas.Left="429" Canvas.Top="248" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M217" Canvas.Left="429" Canvas.Top="275" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M218" Canvas.Left="428" Canvas.Top="354" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M219" Canvas.Left="428" Canvas.Top="397" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M220" Canvas.Left="428" Canvas.Top="441" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M221" Canvas.Left="428" Canvas.Top="483" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M222" Canvas.Left="428" Canvas.Top="526" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M223" Canvas.Left="394" Canvas.Top="558" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M224" Canvas.Left="333" Canvas.Top="558" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M225" Canvas.Left="285" Canvas.Top="558" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M226" Canvas.Left="242" Canvas.Top="558" Opacity="0" />
+            <Ellipse Fill="#2F6EB5" Width="20" Height="20" x:Name="M227" Canvas.Left="197" Canvas.Top="558" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M310" Canvas.Left="276" Canvas.Top="156" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M311" Canvas.Left="302" Canvas.Top="199" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M312" Canvas.Left="322" Canvas.Top="231" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M313" Canvas.Left="344" Canvas.Top="263" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M314" Canvas.Left="362" Canvas.Top="292" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M315" Canvas.Left="451" Canvas.Top="354" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M316" Canvas.Left="471" Canvas.Top="366" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M317" Canvas.Left="486" Canvas.Top="386" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M318" Canvas.Left="499" Canvas.Top="404" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M319" Canvas.Left="515" Canvas.Top="425" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M320" Canvas.Left="532" Canvas.Top="450" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M321" Canvas.Left="565" Canvas.Top="496" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M322" Canvas.Left="583" Canvas.Top="521" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M323" Canvas.Left="602" Canvas.Top="545" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M324" Canvas.Left="618" Canvas.Top="568" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M325" Canvas.Left="635" Canvas.Top="591" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M326" Canvas.Left="654" Canvas.Top="614" Opacity="0" />
+            <Ellipse Fill="#029835" Width="20" Height="20" x:Name="M327" Canvas.Left="675" Canvas.Top="641" Opacity="0" />
+            <Label x:Name="label" FontSize="18"  Content="Звідки:" Canvas.Left="10" Canvas.Top="30"/>
+            <ComboBox x:Name="comboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Width="170" Canvas.Left="10" Canvas.Top="60" SelectionChanged="changed_first_box">
+                <ComboBoxItem  IsEnabled="False">
+                    <Ellipse Fill="#E60003" Width="10" Height="10" Margin="2 3 5 3"/>
+                </ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Академмістечко</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Житомирська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Святошин</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Нивки</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Берестейська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Шулявська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Політехнічний інститут</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Вокзальна</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Університет</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Театральна</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Хрещатик</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Арсенальна</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Дніпро</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Гідропарк</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Лівобережна</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Дарниця</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Чернігівська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Лісова</ComboBoxItem>
+                <ComboBoxItem  IsEnabled="False">
+                    <Ellipse Fill="#2F6EB5" Width="10" Height="10" Margin="2 3 5 3"/>
+                </ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Героїв Дніпра</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Мінська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Оболонь</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Петрівка</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Тараса Шевченка</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Контрактова площа</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Поштова площа</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Майдан Незалежності</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Площа Льва Толстого</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Олімпійська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Палац «Україна»</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Либідська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Деміївська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Голосіївська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Васильківська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Виставковий центр</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Іподром</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Теремки</ComboBoxItem>
+                <ComboBoxItem  IsEnabled="False">
+                    <Ellipse Fill="#029835" Width="10" Height="10" Margin="2 3 5 3"/>
+                </ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Сирець</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Дорогожичі</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Лук'янівська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Золоті ворота</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Палац спорту</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Кловська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Печерська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Дружби народів</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Видубичі</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Славутич</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Осокорки</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Позняки</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Харківська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Вирлиця</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Бориспільська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Червоний хутір</ComboBoxItem>
+            </ComboBox>
+
+            <Label x:Name="label2" FontSize="18"  Content="Куди:" Canvas.Left="10" Canvas.Top="100"/>
+            <ComboBox x:Name="comboBox2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="170" Canvas.Left="10" Canvas.Top="130" SelectionChanged="changed_second_box">
+                <ComboBoxItem  IsEnabled="False">
+                    <Ellipse Fill="#E60003" Width="10" Height="10" Margin="2 3 5 3"/>
+                </ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Академмістечко</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Житомирська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Святошин</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Нивки</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Берестейська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Шулявська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Політехнічний інститут</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Вокзальна</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Університет</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Театральна</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Хрещатик</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Арсенальна</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Дніпро</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Гідропарк</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Лівобережна</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Дарниця</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Чернігівська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Лісова</ComboBoxItem>
+                <ComboBoxItem  IsEnabled="False">
+                    <Ellipse Fill="#2F6EB5" Width="10" Height="10" Margin="2 3 5 3"/>
+                </ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Героїв Дніпра</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Мінська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Оболонь</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Петрівка</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Тараса Шевченка</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Контрактова площа</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Поштова площа</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Майдан Незалежності</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Площа Льва Толстого</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Олімпійська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Палац «Україна»</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Либідська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Деміївська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Голосіївська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Васильківська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Виставковий центр</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Іподром</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Теремки</ComboBoxItem>
+                <ComboBoxItem  IsEnabled="False">
+                    <Ellipse Fill="#029835" Width="10" Height="10" Margin="2 3 5 3"/>
+                </ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Сирець</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Дорогожичі</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Лук'янівська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Золоті ворота</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Палац спорту</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Кловська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Печерська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Дружби народів</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Видубичі</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Славутич</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Осокорки</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Позняки</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Харківська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Вирлиця</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Бориспільська</ComboBoxItem>
+                <ComboBoxItem Margin="20 0 0 0">Червоний хутір</ComboBoxItem>
+            </ComboBox>
+            
+
+        </Canvas>
+        
+    </Grid>
+</Window>

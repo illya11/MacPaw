@@ -1,0 +1,28 @@
+C:\Users\baran\Desktop\Laba Proga\test\WPFapp\WPFapp\bin\Debug\WPFapp.exe.config
+C:\Users\baran\Desktop\Laba Proga\test\WPFapp\WPFapp\bin\Debug\WPFapp.exe
+C:\Users\baran\Desktop\Laba Proga\test\WPFapp\WPFapp\bin\Debug\WPFapp.pdb
+C:\Users\baran\Desktop\Laba Proga\test\WPFapp\WPFapp\obj\Debug\WPFapp.csprojResolveAssemblyReference.cache
+C:\Users\baran\Desktop\Laba Proga\test\WPFapp\WPFapp\obj\Debug\MainWindow.g.cs
+C:\Users\baran\Desktop\Laba Proga\test\WPFapp\WPFapp\obj\Debug\App.g.cs
+C:\Users\baran\Desktop\Laba Proga\test\WPFapp\WPFapp\obj\Debug\WPFapp_MarkupCompile.cache
+C:\Users\baran\Desktop\Laba Proga\test\WPFapp\WPFapp\obj\Debug\WPFapp_MarkupCompile.lref
+C:\Users\baran\Desktop\Laba Proga\test\WPFapp\WPFapp\obj\Debug\MainWindow.baml
+C:\Users\baran\Desktop\Laba Proga\test\WPFapp\WPFapp\obj\Debug\WPFapp.g.resources
+C:\Users\baran\Desktop\Laba Proga\test\WPFapp\WPFapp\obj\Debug\WPFapp.Properties.Resources.resources
+C:\Users\baran\Desktop\Laba Proga\test\WPFapp\WPFapp\obj\Debug\WPFapp.csproj.GenerateResource.Cache
+C:\Users\baran\Desktop\Laba Proga\test\WPFapp\WPFapp\obj\Debug\WPFapp.exe
+C:\Users\baran\Desktop\Laba Proga\test\WPFapp\WPFapp\obj\Debug\WPFapp.pdb
+C:\Users\baran\Desktop\MacPaw\MacPaw\WPFapp\bin\Debug\WPFapp.exe.config
+C:\Users\baran\Desktop\MacPaw\MacPaw\WPFapp\bin\Debug\WPFapp.exe
+C:\Users\baran\Desktop\MacPaw\MacPaw\WPFapp\bin\Debug\WPFapp.pdb
+C:\Users\baran\Desktop\MacPaw\MacPaw\WPFapp\obj\Debug\WPFapp.csprojResolveAssemblyReference.cache
+C:\Users\baran\Desktop\MacPaw\MacPaw\WPFapp\obj\Debug\MainWindow.g.cs
+C:\Users\baran\Desktop\MacPaw\MacPaw\WPFapp\obj\Debug\App.g.cs
+C:\Users\baran\Desktop\MacPaw\MacPaw\WPFapp\obj\Debug\WPFapp_MarkupCompile.cache
+C:\Users\baran\Desktop\MacPaw\MacPaw\WPFapp\obj\Debug\WPFapp_MarkupCompile.lref
+C:\Users\baran\Desktop\MacPaw\MacPaw\WPFapp\obj\Debug\MainWindow.baml
+C:\Users\baran\Desktop\MacPaw\MacPaw\WPFapp\obj\Debug\WPFapp.g.resources
+C:\Users\baran\Desktop\MacPaw\MacPaw\WPFapp\obj\Debug\WPFapp.Properties.Resources.resources
+C:\Users\baran\Desktop\MacPaw\MacPaw\WPFapp\obj\Debug\WPFapp.csproj.GenerateResource.Cache
+C:\Users\baran\Desktop\MacPaw\MacPaw\WPFapp\obj\Debug\WPFapp.exe
+C:\Users\baran\Desktop\MacPaw\MacPaw\WPFapp\obj\Debug\WPFapp.pdb
